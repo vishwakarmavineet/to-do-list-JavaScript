@@ -22,13 +22,6 @@
     - [Install](#install)
     - [Run tests ](#run-tests-)
     - [Deployment ](#deployment-)
-  - [Author](#author)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -102,10 +95,6 @@ In order to run this project you need:
 
 - [ ] Link your PC to GitHub
 - [ ] Clone this repository to your desired folder:
-
-```
-git clone https://github.com/miltonHenschel/ToDoList-App.git
-```
 
 ```
 cd ToDoList-App
@@ -185,28 +174,6 @@ npm run deploy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Author
-
-👥 Henschel Nketchogue M. <a name="authors"></a>
-
-- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
-- LinkedIn: [henschelnketchoguem](https://www.linkedin.com/in/henschelnketchoguem/)
-- Twitter: [nketchogue](https://twitter.com/nketchogue)
-- Instagram: [mpatchiehenschel](https://www.instagram.com/mpatchiehenschel/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Improve design**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
