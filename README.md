@@ -3,7 +3,7 @@
 <div align="center">
   <!-- <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="50"  height="auto" /> -->
   <!-- <br/> -->
-  <h3><b>Microverse README</b></h3>
+  <h3><b>Project Guide README</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -201,10 +201,4 @@ Give a ⭐️ if you like this project!
   npx eslint . --fix
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
